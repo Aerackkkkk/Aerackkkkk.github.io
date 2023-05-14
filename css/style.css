@@ -1,5 +1,5 @@
 body {
-  background-color: #312f2f;
+  background-color: #080000;
   color: #fff;
   font-family: Arial, sans-serif;
   font-size: 18px;
@@ -38,9 +38,8 @@ body {
   font-size: 24px;
   padding: 5px;
   margin-bottom: 10px;
-  /* background-color: antiquewhite; */
   text-decoration: none;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); */
 }
 .nav p{
