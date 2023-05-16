@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color:plum;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.project, .hotel{
+background-color: beige;
+width: max-content;
+}
